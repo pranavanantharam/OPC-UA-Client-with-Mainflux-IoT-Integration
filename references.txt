@@ -1,0 +1,17 @@
+References:
+1. Python OPC-UA documentation: https://python-opcua.readthedocs.io/en/latest/
+2. Identifying information in OPC-UA: http://opclabs.doc-that.com/files/onlinedocs/QuickOpc/Latest/User%27s%20Guide%20and%20Reference-QuickOPC/Identifying%20Information%20in%20OPC-UA.html
+3. OPC-UA Attribute ID enumeration: http://opclabs.doc-that.com/files/onlinedocs/QuickOpc/Latest/User's%20Guide%20and%20Reference-QuickOPC/OpcLabs.EasyOpcUA~OpcLabs.EasyOpc.UA.UAAttributeId.html
+4. OPC-UA minimal client: https://github.com/FreeOpcUa/python-opcua/blob/master/examples/client-minimal.py
+5. OPC-UA Node ID concepts: https://documentation.unified-automation.com/uasdkhp/1.0.0/html/_l2_ua_node_ids.html
+6. Configuration files in Python: https://martin-thoma.com/configuration-files-in-python/
+7. Creating and saving a JSON configuration file: https://stackoverflow.com/questions/19078170/python-how-would-you-save-a-simple-settings-config-file
+8. MySQL using Python: https://www.w3schools.com/python/python_mysql_getstarted.asp
+9. Mainflux documentation: https://mainflux.readthedocs.io/en/latest/
+10. API integration in Python: https://realpython.com/api-integration-in-python/
+11. Requests library for Python: https://realpython.com/python-requests/
+12. SenML format documentation: https://tools.ietf.org/id/draft-jennings-senml-04.html
+13. MQTT using Python: http://www.steves-internet-guide.com/into-mqtt-python-client/
+14. InfluxDB documentation: https://docs.influxdata.com/influxdb/v1.7/
+15. PySimpleGUI package documentation: https://pysimplegui.readthedocs.io/en/latest/
+16. Epoch time convertor: https://www.epochconverter.com/?source=searchbar&q=time+to+
