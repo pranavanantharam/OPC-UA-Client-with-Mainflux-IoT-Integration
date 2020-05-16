@@ -13,6 +13,10 @@ Scripts to dynamically retrieve data from an OPC - UA server with MySQL local st
 
 ## Note
 - Driver.py is the driver script to initialise all the functions and obtain user inputs.
+
 - GUI.py is solely responsible for all GUI-related operations.
+
 - DB.py performs the DB related functions to write / read from MySQL databases and tables.
+
 - MQTT.py is a standalone script intended to run in the background. Performs the function of dynamically collecting data from the MySQL database and publishing the data to Mainflux IoT cloud via MQTT.
+
