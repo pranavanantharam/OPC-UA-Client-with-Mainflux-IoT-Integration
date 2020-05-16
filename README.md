@@ -20,3 +20,4 @@ Scripts to dynamically retrieve data from an OPC - UA server with MySQL local st
 
 - MQTT.py is a standalone script intended to run in the background. Performs the function of dynamically collecting data from the MySQL database and publishing the data to Mainflux IoT cloud via MQTT.
 
+- The data retrieved from the OPC UA server is stored in MySQL databases and .csv files ( local backup ).
