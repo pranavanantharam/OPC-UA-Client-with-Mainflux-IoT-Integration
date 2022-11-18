@@ -24,4 +24,6 @@ Scripts to dynamically retrieve data from an OPC - UA server with MySQL local st
 
 - The data retrieved from the OPC UA server is stored in MySQL databases and .csv files ( local backup ).
 
+- A sample JSON configuration file 'config.json' is attached for reference
+
 - Refer to 'references.txt' for more information.
