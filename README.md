@@ -26,6 +26,6 @@ Scripts to dynamically retrieve data from an OPC - UA server with MySQL local st
 
 - A sample JSON configuration file 'config.json' is attached for reference
 
-- The python scripts and 'config.json' must be placed in same directory
+- The python scripts and 'config.json' must be placed in the same directory
 
 - Refer to 'references.txt' for more information.
